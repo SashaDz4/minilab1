@@ -4,4 +4,4 @@ In this lab, I will be using the iris dataset to classify the species of iris fl
 ### Also I create custom knn and svc function to classify points.
 
 ###  Here is the plot of the random points for svc method:
-![](/home/oleksandr/minilab1/svm_plot.png)(
+![](/home/oleksandr/minilab1/svm.png)
